@@ -4,7 +4,7 @@ A comprehensive Spring Boot template project for building AI-powered application
 
 ## 🚀 Features
 
-- **OpenAI Integration** - Chat completions and embeddings using GPT-4o-mini and text-embedding-3-small
+- **Multi-modal Integrations** - Chat completions and embeddings using OpenAI, Anthropic, and Amazon Bedrock with more to come later.
 - **Vector Storage** - PostgreSQL with PGVector extension for semantic search and RAG applications
 - **Chat Memory** - JDBC-based persistent chat memory for conversation continuity
 - **Document Processing** - PDF document reader for knowledge extraction
